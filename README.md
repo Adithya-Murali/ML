@@ -1,2 +1,2 @@
 # ML
-First hand on machine learning
+First hand at machine learning
